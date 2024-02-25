@@ -20,7 +20,7 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
   - **RTimers**: HCF style timers for TAB plugin.
   - More to come!
 - **STN-Studios Transcripts**: Developer for the transcript panel of the STN-Studios development hub.
-- **Nookure (Staff)**: Providing support on the Discord server for [@Nookure] ([@Angelillo15]).
+- **Nookure (Staff)**: Providing support on the Discord server for [@Nookure](https://github.com/Nookure) ([@Angelillo15](https://github.com/Angelillo15)).
 
 ## Technologies & Tools ⚙️
 
@@ -47,8 +47,8 @@ I'm open to collaborations on projects that challenge my creativity and technica
 This README is inspired by the best practices and examples from the GitHub community. Special thanks to all the content creators who share their knowledge and to the GitHub community for being a constant source of inspiration.
 
 ### Special thanks ⭐
-- [@Angelillo15] - For teaching me the best practicies for Java & Web Development.
-- [@anjoismysign] - For emotionally supporting me and teaching me about AI.
-- [@RubenArtz] - For giving me oportunities to learn.
-- [@hlanchas] - For being such an amazing teacher!
-- [@IagoFar] - For staying with me on this awaesome adventure.
+- [@Angelillo15](https://github.com/Angelillo15) - For teaching me the best practicies for Java & Web Development.
+- [@anjoismysign](https://github.com/anjoismysign) - For emotionally supporting me and teaching me about AI.
+- [@RubenArtz](https://github.com/RubenArtz) - For giving me oportunities to learn.
+- [@hlanchas](https://github.com/hlanchas) - For being such an amazing teacher!
+- [@IagoFar](https://github.com/IagoFar) - For staying with me on this awaesome adventure.
