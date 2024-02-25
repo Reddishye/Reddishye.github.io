@@ -10,7 +10,7 @@ Welcome to my GitHub space, where aesthetics and a passion for coding meet.
 
 I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**. My passion for development and design has led me to create projects that are not only functional but also visually appealing. My favorite colors, pink and purple, reflect my creative and dreamy personality.
 
-## Featured Projects :sparkles:
+## Featured Projects ✨
 
 - **FullAccess**: A Minecraft Survival server running version 1.20.4.
 - **Korumis**: Details are coming soon; it's a secret project for now.
@@ -20,15 +20,15 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
   - **RTimers**: HCF style timers for TAB plugin.
   - More to come!
 - **STN-Studios Transcripts**: Developer for the transcript panel of the STN-Studios development hub.
-- **Nookure (Staff)**: Providing support on the Discord server for @Nookure (@Angelillo15).
+- **Nookure (Staff)**: Providing support on the Discord server for [@Nookure] ([@Angelillo15]).
 
-## Technologies & Tools :tools:
+## Technologies & Tools ⚙️
 
 ```text
 HTML, JavaScript, CSS, TailwindCSS, Bootstrap, Laravel, Livewire, Node.js, Python, PHP, Java
 ```
 
-## Collaboration & Contact :mailbox:
+## Collaboration & Contact 📫
 
 I'm open to collaborations on projects that challenge my creativity and technical skills. If you're interested in working with me or just want to say hi, feel free to reach out.
 
@@ -42,6 +42,13 @@ I'm open to collaborations on projects that challenge my creativity and technica
 
 ![Reddishye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reddishye&show_icons=true&theme=synthwave)
 
-## Inspiration & Acknowledgments :pray:
+## Inspiration & Acknowledgments 🙏
 
 This README is inspired by the best practices and examples from the GitHub community. Special thanks to all the content creators who share their knowledge and to the GitHub community for being a constant source of inspiration.
+
+### Special thanks ⭐
+- [@Angelillo15] - For teaching me the best practicies for Java & Web Development.
+- [@anjoismysign] - For emotionally supporting me and teaching me about AI.
+- [@RubenArtz] - For giving me oportunities to learn.
+- [@hlanchas] - For being such an amazing teacher!
+- [@IagoFar] - For staying with me on this awaesome adventure.
