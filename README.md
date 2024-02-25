@@ -2,8 +2,6 @@
 
 # Hugo Torres (@Reddishye)
 
-![RedactadoLogo](https://redactado.es/redactado-logo.png)
-
 Welcome to my GitHub space, where aesthetics and a passion for coding meet.
 
 </div>
