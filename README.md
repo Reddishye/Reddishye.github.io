@@ -2,7 +2,7 @@
 
 # Hugo Torres (@Reddishye)
 
-![Rosa y Morado](https://via.placeholder.com/150/FFC0CB/800080?text=+)
+![RedactadoLogo](https://redactado.es/redactado-logo.png)
 
 Welcome to my GitHub space, where aesthetics and a passion for coding meet.
 
